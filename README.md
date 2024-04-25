@@ -22,9 +22,9 @@ Data Analyst @ Javelin Sports Inc | Nov 2021 - Nov 2023
 
 Traffic Data Analyst @ Trans-Plan | July 2021 - November 2021
 
-● Compiled data from video footage of various trails, intersections, and roadways, and tracked vehicle movement patterns. Utilized Excel to prepare spreadsheets and graphing reports for parking lot surveys, contributing to the organization's understanding of traffic patterns.
-● Played a vital role in providing fieldwork support, including the installation of cameras to capture traffic patterns along various roadways. This hands-on experience helped in collecting essential data for transportation analysis.
-● Prepared comprehensive reports based on video data, aiding in the identification of traffic trends and patterns. These reports provided valuable insights for decision-making in transportation planning
+● Compiled data from video footage of various trails, intersections, and roadways, and tracked vehicle movement patterns. Utilized Excel to prepare spreadsheets and graphing reports for parking lot surveys, contributing to the organization's understanding of traffic patterns. <br>
+● Played a vital role in providing fieldwork support, including the installation of cameras to capture traffic patterns along various roadways. This hands-on experience helped in collecting essential data for transportation analysis. <br> 
+● Prepared comprehensive reports based on video data, aiding in the identification of traffic trends and patterns. These reports provided valuable insights for decision-making in transportation planning <br> 
 
 ### Projects 
 
