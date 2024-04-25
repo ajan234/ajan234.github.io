@@ -10,15 +10,15 @@ Data Analysis and Predictive Analytics, Ryerson University | Jan 2022
 ### Work Experience 
 Data Analyst @ Javelin Sports Inc | Nov 2021 - Nov 2023
 
-● Proficiently used data analytics tools and techniques to collect, process, and analyze large datasets and product data, providing actionable insights to inform decision-making. Using python, bigquery and google analytics platform
-● Collaborated closely with cross-functional teams, including Product Management, Product Design, and Engineering, to define metrics and source data for each metric, ensuring alignment with product goals and objectives. 
-● Played a crucial role in establishing key performance indicators (KPIs) and targets for digital products and their features, taking ownership of dashboards in Business Intelligence and reporting tools such as Looker, Power BI and Amplitude to support the product team in capturing essential business metrics.. 
-● Conducted additional analysis and deep dives to uncover the 'why' behind product and metric performance, identifying trends, patterns, and anomalies in user behavior and product usage, leading to data-driven decision-making.
-● Regularly monitored and reported on key product performance metrics, including user engagement, retention, and conversion rates, providing valuable insights for strategic planning and improvements.
-● Gained a deep understanding of user behavior through funnel analysis, cohort analysis, and segmentation, helping to optimize user experiences and product features.
-● Successfully planned, executed, and analyzed A/B tests to optimize product features, user interfaces, and conversion funnels, contributing to enhanced product performance and user satisfaction.
-● Delivered regular presentations of key insights to stakeholders and business partners, recommending data-backed solutions and providing critical support for key business decisions
-● Demonstrated the ability to display complex quantitative data in a simple, intuitive format, making findings easily understandable, and presented insights in a clear and concise manner.
+● Proficiently used data analytics tools and techniques to collect, process, and analyze large datasets and product data, providing actionable insights to inform decision-making. Using python, bigquery and google analytics platform <br>
+● Collaborated closely with cross-functional teams, including Product Management, Product Design, and Engineering, to define metrics and source data for each metric, ensuring alignment with product goals and objectives.<br> 
+● Played a crucial role in establishing key performance indicators (KPIs) and targets for digital products and their features, taking ownership of dashboards in Business Intelligence and reporting tools such as Looker, Power BI and Amplitude to support the product team in capturing essential business metrics. <br>
+● Conducted additional analysis and deep dives to uncover the 'why' behind product and metric performance, identifying trends, patterns, and anomalies in user behavior and product usage, leading to data-driven decision-making.<br>
+● Regularly monitored and reported on key product performance metrics, including user engagement, retention, and conversion rates, providing valuable insights for strategic planning and improvements.<br>
+● Gained a deep understanding of user behavior through funnel analysis, cohort analysis, and segmentation, helping to optimize user experiences and product features.<br>
+● Successfully planned, executed, and analyzed A/B tests to optimize product features, user interfaces, and conversion funnels, contributing to enhanced product performance and user satisfaction.<br>
+● Delivered regular presentations of key insights to stakeholders and business partners, recommending data-backed solutions and providing critical support for key business decisions <br>
+● Demonstrated the ability to display complex quantitative data in a simple, intuitive format, making findings easily understandable, and presented insights in a clear and concise manner.<br>
 
 Traffic Data Analyst @ Trans-Plan | July 2021 - November 2021
 
