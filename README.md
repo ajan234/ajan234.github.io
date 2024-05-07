@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Techincal Skills: Python, SQL, R, Bigquery, Google Analytics, 
+#### Techincal Skills: Python, SQL, R, Bigquery, Google Analytics, Tableau, PowerBI, Looker, Amplitude
 
 
 ### Education 
