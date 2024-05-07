@@ -4,7 +4,7 @@
 
 
 ### Education 
-Applied Mathematics, York University | June 2020
+Applied Mathematics, York University | June 2020 <br>
 Data Analysis and Predictive Analytics, Ryerson University | Jan 2022
 
 ### Work Experience 
