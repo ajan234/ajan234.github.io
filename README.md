@@ -29,23 +29,23 @@ Traffic Data Analyst @ Trans-Plan | July 2021 - November 2021
 ### Projects 
 
 #### [Yelp Sentiment Analysis](https://github.com/ajan234/Yelp-Sentiment-Analysis)
-<div align="center">
+
 ![Yelp Sentiment Analysis](/assets/YelpImage.png)
-</div>
+
 
 This project uses natural language processing (NLP) to predict whether Yelp customer reviews are positive or negative based on keywords. I used Topic modeling more over Latent Dirchilet Allocation to find the hidden structures presented in the reviews and tips data provided by yelp. This type of analysis is used to understand customer preferences for the businesses through the tips provided by customer. I used **Python** to clean and analyse the data set and created the report using **Jupyter Notebook**  
 
 #### [Heart Attack Analysis & Prediction Analysis](https://github.com/ajan234/Heart-Attack-Analysis)
-<div align="center">
+
 ![Heart Attack Analysis](/assets/HeartAttackLogo.png)
-</div>
+
 
 Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups. One person dies every 36 seconds in the United States from cardiovascular disease. About 655,000 Americans die from heart disease each year—that's 1 in every 4 deaths. The goal of this project is to find out which factors influences the chances of getting a heart attack. I will be using Heart Attack Analysis & Prediction Dataset, which is a dataset for heart attack classification from kaggle. In addition i'll be using the following classification technique **Decision Tree**, to provide further analysis of which factors influence heart attacks. I used **Python** to clean and analyse the data set and created the report using **Jupyter Notebook**
 
 #### [Marrijuana Arrest Analysis](https://github.com/ajan234/Arrests-Dataset-)
-<div align="center">
+
 ![Marrijuana Arrest Analysis](/assets/PoliceArrestImg.jpeg)
-</div>
+
 
 Capstone Project By: Zhengzheng Wang, Ajanthan Mathialagan, Zihui Yu, Mingming Wei and Harbrinder Bhullar
 
