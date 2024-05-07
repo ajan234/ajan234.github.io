@@ -30,6 +30,8 @@ Traffic Data Analyst @ Trans-Plan | July 2021 - November 2021
 
 #### Yelp Sentiment Analysis
 
+![Yelp Sentiment Analysis](/assets/HeartAttackLogo.png)
+
 [Link to Project](https://github.com/ajan234/Yelp-Sentiment-Analysis)
 
 
