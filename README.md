@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Techincal Skills: Python, SQL, R, Bigquery, Google Analytics, Tableau, PowerBI, Looker, Amplitude
+#### Techincal Skills: Python, SQL, R, Bigquery, Google Analytics 4, Tableau, PowerBI, Looker, Amplitude, DOMO
 
 
 ### Education 
@@ -8,6 +8,17 @@ Applied Mathematics, York University | June 2020 <br>
 Data Analysis and Predictive Analytics, Ryerson University | Jan 2022
 
 ### Work Experience 
+Data Analyst @ Sinalite | May 2024 - Present 
+
+● Collaborate with the Business Analyst or other team members to gather data requirements for addressing specific business problems <br>
+● Assist in the collection, cleaning, and preparation of data from diverse sources for analytical processes <br>
+● Develop dashboards, reports, and visualizations to present data in an insightful manner, facilitating business decision-making <br>
+● Work closely with the senior data team to interpret data patterns and trends, contributing to the formulation of business strategies <br>
+● Assist in maintaining and updating databases, ensuring data quality and accuracy <br>
+● Continuously enhance skills and knowledge on industry trends, competitive activities, and best practices in data analysis <br>
+● Contribute to the improvement of data management processes within the organization, promoting efficiency and effectiveness <br>
+
+
 Data Analyst @ Javelin Sports Inc | Nov 2021 - Nov 2023
 
 ● Proficiently used data analytics tools and techniques to collect, process, and analyze large datasets and product data, providing actionable insights to inform decision-making. Using python, bigquery and google analytics platform <br>
